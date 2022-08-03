@@ -1,0 +1,83 @@
+[
+    {
+      "id": 0,
+      "name": "Column Charger 0",
+      "picture": "images/columnsEV1.jpeg",
+      "MaxPower": 11,
+      "brand": "EnelX",
+      "location": "via Cascinette, 22"
+    },
+    {
+      "id": 1,
+      "name": "Column Charger 1",
+      "picture": "images/columnsEV2.jpeg",
+      "MaxPower": 3.3,
+      "brand": "Tesla",
+      "location": "via Torino, 112"
+    },
+    {
+      "id": 2,
+      "name": "Column Charger 2",
+      "picture": "images/columnsEV3.jpeg",
+      "age": 2,
+      "brand": "Shell",
+      "location": "Freeburn, Idaho"
+    },
+    {
+      "id": 3,
+      "name": "Column Charger 3",
+      "picture": "images/columnsEVAbb.jpeg",
+      "MaxPower": 180,
+      "brand": "Abb",
+      "location": "via San Giovanni, 189"
+    },
+    {
+      "id": 4,
+      "name": "Column Charger 4",
+      "picture": "images/columnsEVAbb.jpeg",
+      "MaxPower": 180,
+      "brand": "Abb",
+      "location": "via Strusiglia, 3"
+    },
+    {
+      "id": 5,
+      "name": "Column Charger 5",
+      "picture": "images/columnsEVAbb.jpeg",
+      "MaxPower": 180,
+      "brand": "Abb",
+      "location": "via Strusiglia, 3"
+    },
+    {
+      "id": 6,
+      "name": "Column Charger 6",
+      "picture": "images/columnsEVAbb.jpeg",
+      "MaxPower": 150,
+      "brand": "Polar",
+      "location": "via Miniere, 3"
+    },
+    {
+      "id": 7,
+      "name": "Column Charger 7",
+      "picture": "images/columnsEV1.jpeg",
+      "MaxPower": 5,
+      "brand": "EVBOX",
+      "location": "piazza San Felice, 15"
+    },
+    {
+      "id": 8,
+      "name": "Column Charger 8",
+      "picture": "images/columnsEV1.jpeg",
+      "MaxPower": 5,
+      "brand": "EVBOX",
+      "location": "piazza San Felice, 15"
+    },
+    {
+      "id": 9,
+      "name": "Column Charger 9",
+      "picture": "images/columnsEVAbb.jpeg",
+      "MaxPower": 150,
+      "brand": "Polar",
+      "location": "via Primo Levi, 41"
+    }
+]
+  
